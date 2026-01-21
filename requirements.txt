@@ -1,0 +1,57 @@
+# IPL Score Prediction - Requirements
+# Python 3.8+ required
+
+# Core Data Science Libraries
+numpy>=1.21.0
+pandas>=1.3.0
+scipy>=1.7.0
+
+# Machine Learning
+scikit-learn>=1.0.0
+
+# Deep Learning
+tensorflow>=2.10.0
+keras>=2.10.0
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# Web Applications
+streamlit>=1.20.0
+flask>=2.0.0
+flask-cors>=3.0.0
+
+# Model Serialization
+joblib>=1.1.0
+
+# Data Processing
+openpyxl>=3.0.0
+xlrd>=2.0.0
+
+# API and Web
+requests>=2.26.0
+gunicorn>=20.1.0
+
+# Explainable AI
+shap>=0.41.0
+lime>=0.2.0
+
+# Progress Bars
+tqdm>=4.62.0
+
+# Configuration
+python-dotenv>=0.19.0
+pyyaml>=6.0
+
+# Testing
+pytest>=7.0.0
+
+# Jupyter Support
+jupyter>=1.0.0
+ipykernel>=6.0.0
+notebook>=6.4.0
+
+# Type Hints
+typing-extensions>=4.0.0

@@ -1,0 +1,101 @@
+match_id,team1,team2,venue,date,toss_winner,toss_decision,team1_score,team1_wickets,team2_score,team2_wickets,winner,win_type,win_margin
+1,Rajasthan Royals,Kolkata Knight Riders,M. Chinnaswamy Stadium,2023-04-11,Kolkata Knight Riders,field,233,5,221,3,Rajasthan Royals,runs,12
+2,Delhi Capitals,Punjab Kings,Wankhede Stadium,2023-04-25,Punjab Kings,bat,178,5,179,6,Punjab Kings,wickets,4
+3,Gujarat Titans,Chennai Super Kings,M. A. Chidambaram Stadium,2023-04-18,Gujarat Titans,bat,219,5,198,6,Gujarat Titans,runs,21
+4,Mumbai Indians,Kolkata Knight Riders,Punjab Cricket Association Stadium,2023-04-04,Kolkata Knight Riders,bat,180,5,182,9,Kolkata Knight Riders,wickets,1
+5,Delhi Capitals,Mumbai Indians,Rajiv Gandhi International Stadium,2023-05-12,Mumbai Indians,field,197,5,189,6,Delhi Capitals,runs,8
+6,Mumbai Indians,Chennai Super Kings,Wankhede Stadium,2023-05-18,Mumbai Indians,bat,204,3,205,7,Chennai Super Kings,wickets,3
+7,Royal Challengers Bangalore,Sunrisers Hyderabad,M. Chinnaswamy Stadium,2023-05-21,Royal Challengers Bangalore,bat,174,7,177,2,Sunrisers Hyderabad,wickets,8
+8,Chennai Super Kings,Punjab Kings,Wankhede Stadium,2023-04-01,Punjab Kings,field,207,7,209,7,Punjab Kings,wickets,3
+9,Lucknow Super Giants,Punjab Kings,Rajiv Gandhi International Stadium,2023-04-24,Punjab Kings,field,214,5,162,3,Lucknow Super Giants,runs,52
+10,Kolkata Knight Riders,Gujarat Titans,M. Chinnaswamy Stadium,2023-04-01,Kolkata Knight Riders,field,160,10,161,7,Gujarat Titans,wickets,3
+11,Royal Challengers Bangalore,Punjab Kings,Rajiv Gandhi International Stadium,2023-05-09,Royal Challengers Bangalore,bat,210,5,211,7,Punjab Kings,wickets,3
+12,Rajasthan Royals,Lucknow Super Giants,Arun Jaitley Stadium,2023-05-24,Lucknow Super Giants,bat,197,8,175,5,Rajasthan Royals,runs,22
+13,Sunrisers Hyderabad,Rajasthan Royals,Punjab Cricket Association Stadium,2023-05-23,Rajasthan Royals,bat,214,6,204,4,Sunrisers Hyderabad,runs,10
+14,Rajasthan Royals,Delhi Capitals,M. Chinnaswamy Stadium,2023-04-08,Delhi Capitals,bat,181,6,184,7,Delhi Capitals,wickets,3
+15,Royal Challengers Bangalore,Rajasthan Royals,M. Chinnaswamy Stadium,2023-05-17,Royal Challengers Bangalore,field,226,9,231,5,Rajasthan Royals,wickets,5
+16,Rajasthan Royals,Royal Challengers Bangalore,Eden Gardens,2023-04-23,Rajasthan Royals,bat,173,7,174,1,Royal Challengers Bangalore,wickets,9
+17,Rajasthan Royals,Sunrisers Hyderabad,Narendra Modi Stadium,2023-04-12,Rajasthan Royals,field,209,7,177,6,Rajasthan Royals,runs,32
+18,Chennai Super Kings,Sunrisers Hyderabad,Punjab Cricket Association Stadium,2023-04-04,Chennai Super Kings,field,200,10,186,6,Chennai Super Kings,runs,14
+19,Mumbai Indians,Royal Challengers Bangalore,Eden Gardens,2023-04-21,Royal Challengers Bangalore,bat,210,8,186,6,Mumbai Indians,runs,24
+20,Delhi Capitals,Lucknow Super Giants,Eden Gardens,2023-04-01,Lucknow Super Giants,field,215,5,212,6,Delhi Capitals,runs,3
+21,Punjab Kings,Gujarat Titans,Punjab Cricket Association Stadium,2023-04-07,Punjab Kings,bat,204,3,205,7,Gujarat Titans,wickets,3
+22,Gujarat Titans,Mumbai Indians,Punjab Cricket Association Stadium,2023-04-02,Mumbai Indians,field,217,10,173,1,Gujarat Titans,runs,44
+23,Rajasthan Royals,Punjab Kings,Wankhede Stadium,2023-05-03,Rajasthan Royals,bat,219,5,182,3,Rajasthan Royals,runs,37
+24,Lucknow Super Giants,Chennai Super Kings,M. A. Chidambaram Stadium,2023-04-02,Lucknow Super Giants,bat,181,5,185,9,Chennai Super Kings,wickets,1
+25,Chennai Super Kings,Mumbai Indians,Wankhede Stadium,2023-04-03,Mumbai Indians,bat,212,4,213,5,Mumbai Indians,wickets,5
+26,Royal Challengers Bangalore,Gujarat Titans,Wankhede Stadium,2023-04-18,Gujarat Titans,bat,215,5,196,3,Royal Challengers Bangalore,runs,19
+27,Delhi Capitals,Punjab Kings,Arun Jaitley Stadium,2023-04-20,Delhi Capitals,field,207,5,202,10,Delhi Capitals,runs,5
+28,Lucknow Super Giants,Punjab Kings,M. A. Chidambaram Stadium,2023-04-10,Lucknow Super Giants,bat,182,4,183,4,Punjab Kings,wickets,6
+29,Lucknow Super Giants,Chennai Super Kings,M. Chinnaswamy Stadium,2023-05-27,Chennai Super Kings,field,227,8,211,4,Lucknow Super Giants,runs,16
+30,Gujarat Titans,Delhi Capitals,Eden Gardens,2023-05-21,Gujarat Titans,field,184,10,186,4,Delhi Capitals,wickets,6
+31,Kolkata Knight Riders,Mumbai Indians,M. Chinnaswamy Stadium,2023-05-02,Mumbai Indians,bat,217,7,181,8,Kolkata Knight Riders,runs,36
+32,Delhi Capitals,Chennai Super Kings,Narendra Modi Stadium,2023-05-24,Chennai Super Kings,field,146,10,147,7,Chennai Super Kings,wickets,3
+33,Gujarat Titans,Kolkata Knight Riders,M. A. Chidambaram Stadium,2023-05-22,Gujarat Titans,bat,197,7,198,7,Kolkata Knight Riders,wickets,3
+34,Royal Challengers Bangalore,Lucknow Super Giants,Rajiv Gandhi International Stadium,2023-04-04,Royal Challengers Bangalore,bat,223,5,203,6,Royal Challengers Bangalore,runs,20
+35,Gujarat Titans,Punjab Kings,Arun Jaitley Stadium,2023-05-09,Gujarat Titans,field,232,4,211,8,Gujarat Titans,runs,21
+36,Lucknow Super Giants,Gujarat Titans,Punjab Cricket Association Stadium,2023-04-07,Lucknow Super Giants,field,190,5,190,9,Lucknow Super Giants,runs,0
+37,Lucknow Super Giants,Kolkata Knight Riders,Wankhede Stadium,2023-05-27,Kolkata Knight Riders,field,197,6,199,4,Kolkata Knight Riders,wickets,6
+38,Lucknow Super Giants,Kolkata Knight Riders,Rajiv Gandhi International Stadium,2023-04-25,Lucknow Super Giants,bat,199,7,200,3,Kolkata Knight Riders,wickets,7
+39,Mumbai Indians,Royal Challengers Bangalore,M. A. Chidambaram Stadium,2023-05-09,Royal Challengers Bangalore,bat,216,4,205,9,Mumbai Indians,runs,11
+40,Chennai Super Kings,Kolkata Knight Riders,Arun Jaitley Stadium,2023-05-10,Chennai Super Kings,field,174,7,176,6,Kolkata Knight Riders,wickets,4
+41,Royal Challengers Bangalore,Lucknow Super Giants,Wankhede Stadium,2023-04-14,Royal Challengers Bangalore,bat,215,9,216,5,Lucknow Super Giants,wickets,5
+42,Sunrisers Hyderabad,Mumbai Indians,Wankhede Stadium,2023-05-27,Mumbai Indians,bat,193,10,191,6,Sunrisers Hyderabad,runs,2
+43,Lucknow Super Giants,Mumbai Indians,Arun Jaitley Stadium,2023-04-15,Mumbai Indians,bat,241,7,164,4,Lucknow Super Giants,runs,77
+44,Lucknow Super Giants,Mumbai Indians,Punjab Cricket Association Stadium,2023-05-10,Lucknow Super Giants,field,203,6,207,6,Mumbai Indians,wickets,4
+45,Mumbai Indians,Punjab Kings,Punjab Cricket Association Stadium,2023-05-27,Mumbai Indians,field,209,5,212,7,Punjab Kings,wickets,3
+46,Delhi Capitals,Mumbai Indians,M. Chinnaswamy Stadium,2023-04-08,Mumbai Indians,bat,202,6,185,4,Delhi Capitals,runs,17
+47,Chennai Super Kings,Sunrisers Hyderabad,Narendra Modi Stadium,2023-05-18,Sunrisers Hyderabad,bat,209,9,190,6,Chennai Super Kings,runs,19
+48,Royal Challengers Bangalore,Lucknow Super Giants,Wankhede Stadium,2023-04-21,Royal Challengers Bangalore,field,177,6,179,6,Lucknow Super Giants,wickets,4
+49,Punjab Kings,Lucknow Super Giants,Narendra Modi Stadium,2023-05-24,Lucknow Super Giants,field,222,5,180,8,Punjab Kings,runs,42
+50,Chennai Super Kings,Royal Challengers Bangalore,Punjab Cricket Association Stadium,2023-04-10,Chennai Super Kings,field,221,4,122,10,Chennai Super Kings,runs,99
+51,Punjab Kings,Royal Challengers Bangalore,Eden Gardens,2023-04-08,Punjab Kings,bat,201,6,192,9,Punjab Kings,runs,9
+52,Rajasthan Royals,Lucknow Super Giants,Rajiv Gandhi International Stadium,2023-05-10,Rajasthan Royals,field,176,10,179,3,Lucknow Super Giants,wickets,7
+53,Royal Challengers Bangalore,Mumbai Indians,Wankhede Stadium,2023-05-14,Mumbai Indians,field,222,3,184,4,Royal Challengers Bangalore,runs,38
+54,Sunrisers Hyderabad,Delhi Capitals,M. A. Chidambaram Stadium,2023-04-22,Delhi Capitals,bat,179,10,180,9,Delhi Capitals,wickets,1
+55,Lucknow Super Giants,Gujarat Titans,Rajiv Gandhi International Stadium,2023-05-18,Lucknow Super Giants,field,189,5,193,5,Gujarat Titans,wickets,5
+56,Gujarat Titans,Kolkata Knight Riders,Rajiv Gandhi International Stadium,2023-05-08,Kolkata Knight Riders,bat,196,3,192,5,Gujarat Titans,runs,4
+57,Lucknow Super Giants,Rajasthan Royals,M. A. Chidambaram Stadium,2023-04-18,Lucknow Super Giants,field,216,5,217,3,Rajasthan Royals,wickets,7
+58,Sunrisers Hyderabad,Gujarat Titans,M. Chinnaswamy Stadium,2023-04-08,Sunrisers Hyderabad,bat,189,6,190,4,Gujarat Titans,wickets,6
+59,Chennai Super Kings,Lucknow Super Giants,Narendra Modi Stadium,2023-04-08,Lucknow Super Giants,field,202,5,190,6,Chennai Super Kings,runs,12
+60,Punjab Kings,Sunrisers Hyderabad,M. Chinnaswamy Stadium,2023-05-05,Punjab Kings,bat,183,7,184,5,Sunrisers Hyderabad,wickets,5
+61,Delhi Capitals,Sunrisers Hyderabad,M. Chinnaswamy Stadium,2023-04-13,Sunrisers Hyderabad,bat,201,6,202,8,Sunrisers Hyderabad,wickets,2
+62,Chennai Super Kings,Sunrisers Hyderabad,M. Chinnaswamy Stadium,2023-04-26,Sunrisers Hyderabad,bat,200,5,182,6,Chennai Super Kings,runs,18
+63,Kolkata Knight Riders,Punjab Kings,Narendra Modi Stadium,2023-04-10,Punjab Kings,bat,205,6,181,5,Kolkata Knight Riders,runs,24
+64,Kolkata Knight Riders,Mumbai Indians,M. A. Chidambaram Stadium,2023-05-17,Kolkata Knight Riders,field,208,6,195,4,Kolkata Knight Riders,runs,13
+65,Rajasthan Royals,Kolkata Knight Riders,Arun Jaitley Stadium,2023-04-11,Rajasthan Royals,field,193,3,189,4,Rajasthan Royals,runs,4
+66,Gujarat Titans,Lucknow Super Giants,Arun Jaitley Stadium,2023-04-07,Lucknow Super Giants,bat,202,4,198,6,Gujarat Titans,runs,4
+67,Sunrisers Hyderabad,Punjab Kings,M. A. Chidambaram Stadium,2023-04-20,Punjab Kings,bat,234,4,172,5,Sunrisers Hyderabad,runs,62
+68,Royal Challengers Bangalore,Chennai Super Kings,Arun Jaitley Stadium,2023-04-25,Royal Challengers Bangalore,bat,182,5,184,8,Chennai Super Kings,wickets,2
+69,Mumbai Indians,Royal Challengers Bangalore,Wankhede Stadium,2023-05-07,Mumbai Indians,field,210,7,191,6,Mumbai Indians,runs,19
+70,Kolkata Knight Riders,Rajasthan Royals,Wankhede Stadium,2023-05-03,Rajasthan Royals,bat,211,3,207,8,Kolkata Knight Riders,runs,4
+71,Chennai Super Kings,Kolkata Knight Riders,Eden Gardens,2023-05-06,Chennai Super Kings,bat,210,6,207,3,Chennai Super Kings,runs,3
+72,Sunrisers Hyderabad,Mumbai Indians,Narendra Modi Stadium,2023-05-13,Mumbai Indians,bat,142,10,145,6,Mumbai Indians,wickets,4
+73,Sunrisers Hyderabad,Gujarat Titans,Arun Jaitley Stadium,2023-04-25,Sunrisers Hyderabad,field,216,4,176,6,Sunrisers Hyderabad,runs,40
+74,Lucknow Super Giants,Punjab Kings,M. A. Chidambaram Stadium,2023-05-19,Lucknow Super Giants,field,197,9,178,6,Lucknow Super Giants,runs,19
+75,Gujarat Titans,Kolkata Knight Riders,Wankhede Stadium,2023-05-12,Gujarat Titans,bat,212,7,214,8,Kolkata Knight Riders,wickets,2
+76,Lucknow Super Giants,Gujarat Titans,Arun Jaitley Stadium,2023-04-14,Gujarat Titans,field,238,8,189,9,Lucknow Super Giants,runs,49
+77,Punjab Kings,Lucknow Super Giants,Arun Jaitley Stadium,2023-04-08,Lucknow Super Giants,bat,190,5,189,9,Punjab Kings,runs,1
+78,Punjab Kings,Royal Challengers Bangalore,Arun Jaitley Stadium,2023-05-12,Punjab Kings,field,163,10,164,3,Royal Challengers Bangalore,wickets,7
+79,Chennai Super Kings,Delhi Capitals,Eden Gardens,2023-05-07,Delhi Capitals,field,179,6,180,4,Delhi Capitals,wickets,6
+80,Delhi Capitals,Chennai Super Kings,Narendra Modi Stadium,2023-05-10,Delhi Capitals,bat,187,5,191,6,Chennai Super Kings,wickets,4
+81,Chennai Super Kings,Gujarat Titans,Narendra Modi Stadium,2023-04-24,Gujarat Titans,field,172,9,175,5,Gujarat Titans,wickets,5
+82,Mumbai Indians,Sunrisers Hyderabad,Punjab Cricket Association Stadium,2023-04-09,Mumbai Indians,field,194,8,200,7,Sunrisers Hyderabad,wickets,3
+83,Mumbai Indians,Sunrisers Hyderabad,Eden Gardens,2023-04-05,Sunrisers Hyderabad,field,213,3,186,7,Mumbai Indians,runs,27
+84,Chennai Super Kings,Punjab Kings,M. A. Chidambaram Stadium,2023-05-27,Punjab Kings,bat,193,6,191,9,Chennai Super Kings,runs,2
+85,Rajasthan Royals,Sunrisers Hyderabad,M. Chinnaswamy Stadium,2023-04-14,Rajasthan Royals,bat,207,4,213,9,Sunrisers Hyderabad,wickets,1
+86,Kolkata Knight Riders,Sunrisers Hyderabad,M. A. Chidambaram Stadium,2023-05-15,Sunrisers Hyderabad,field,208,8,201,6,Kolkata Knight Riders,runs,7
+87,Gujarat Titans,Lucknow Super Giants,Punjab Cricket Association Stadium,2023-05-14,Gujarat Titans,field,195,10,200,5,Lucknow Super Giants,wickets,5
+88,Sunrisers Hyderabad,Gujarat Titans,Punjab Cricket Association Stadium,2023-04-02,Sunrisers Hyderabad,field,211,1,191,5,Sunrisers Hyderabad,runs,20
+89,Kolkata Knight Riders,Sunrisers Hyderabad,Punjab Cricket Association Stadium,2023-04-12,Kolkata Knight Riders,field,223,7,189,9,Kolkata Knight Riders,runs,34
+90,Sunrisers Hyderabad,Punjab Kings,Eden Gardens,2023-05-14,Punjab Kings,field,222,4,198,2,Sunrisers Hyderabad,runs,24
+91,Sunrisers Hyderabad,Punjab Kings,Eden Gardens,2023-05-17,Sunrisers Hyderabad,field,206,2,204,4,Sunrisers Hyderabad,runs,2
+92,Gujarat Titans,Rajasthan Royals,Narendra Modi Stadium,2023-05-10,Rajasthan Royals,bat,194,6,197,8,Rajasthan Royals,wickets,2
+93,Royal Challengers Bangalore,Kolkata Knight Riders,M. A. Chidambaram Stadium,2023-04-03,Kolkata Knight Riders,bat,204,4,195,8,Royal Challengers Bangalore,runs,9
+94,Punjab Kings,Royal Challengers Bangalore,Wankhede Stadium,2023-04-22,Royal Challengers Bangalore,bat,220,4,203,7,Punjab Kings,runs,17
+95,Punjab Kings,Lucknow Super Giants,Wankhede Stadium,2023-05-27,Punjab Kings,bat,228,4,196,5,Punjab Kings,runs,32
+96,Mumbai Indians,Punjab Kings,Wankhede Stadium,2023-05-04,Mumbai Indians,field,246,2,211,10,Mumbai Indians,runs,35
+97,Lucknow Super Giants,Rajasthan Royals,Wankhede Stadium,2023-05-24,Lucknow Super Giants,bat,200,6,201,5,Rajasthan Royals,wickets,5
+98,Gujarat Titans,Punjab Kings,Rajiv Gandhi International Stadium,2023-04-23,Gujarat Titans,field,205,6,197,4,Gujarat Titans,runs,8
+99,Royal Challengers Bangalore,Rajasthan Royals,Narendra Modi Stadium,2023-05-14,Royal Challengers Bangalore,bat,215,5,214,6,Royal Challengers Bangalore,runs,1
+100,Gujarat Titans,Mumbai Indians,Punjab Cricket Association Stadium,2023-05-27,Gujarat Titans,field,186,5,188,7,Mumbai Indians,wickets,3
